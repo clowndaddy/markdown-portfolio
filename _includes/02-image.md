@@ -1,1 +1,1 @@
-![Image of a clown fish](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AClown_fish_in_the_Andaman_Coral_Reef.jpg&psig=AOvVaw1VZ8dn-JG0soWNxzM35gs4&ust=1606216927130000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCe9MfGmO0CFQAAAAAdAAAAABAD)
+![Image of a clown fish](https://upload.wikimedia.org/wikipedia/commons/f/f6/Clown_fish_in_the_Andaman_Coral_Reef.jpg)
